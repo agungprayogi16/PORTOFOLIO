@@ -14,15 +14,17 @@ export default function Portfolio() {
               Recent Work
             </h4>
             <div className='text-gradient font-primary mx-auto max-w-[700px] text-[24px]'>
-              i am projects during your learning/internship at Dumbways are as
-              follows:
+              Latest Jobs My projects while studying/internship at Dumbways are
+              as follows:
               <br />
               Circle: Description: A web project similar to a social media
-              platform. Note: Further details about its features and
-              functionalities would be helpful. Trivia Apps: Description: A
-              project focused on creating a game. Note: Additional information
-              about the game's concept or unique features would be interesting.
-              Antarjemput Project (Ride-Sharing Project):
+              platform. Note: More details about its features and functions
+              would be helpful.
+              <br />
+              Trivia App: Description: A project focused on creating games.
+              Note: Additional information about the game concept or its unique
+              features would be interesting. Shuttle Project (Ride Sharing
+              Project):
             </div>
           </div>
           <div className='order-1 lg:order-2'>
